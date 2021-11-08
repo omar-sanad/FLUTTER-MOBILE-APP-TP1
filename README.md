@@ -6,7 +6,6 @@ must enter the number of credit card then the expired date
 <p align="center">
    <img src="screens/1.png" width="350" title="hover text">
    </p>
-   </br>
    <h3>SECONDE step :</h3>
 </br>
 you enter the CVV in the back of the card after she turn automatically  
@@ -15,7 +14,6 @@ you enter the CVV in the back of the card after she turn automatically
    <p align="center">
    <img src="screens/2.png" width="350" title="hover text">
    </p>
-</br>
    <h3>THIRD step :</h3>
 </br>
 you enter the first and last name of the card owner   
