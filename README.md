@@ -24,4 +24,4 @@ you enter the first and last name of the card owner
    </p>
 
 
- <p> <strong> => the you click valid </strong> </p>
+ <p align="center"> <strong> => the you click valid </strong> </p>
